@@ -59,5 +59,5 @@ John's account balance: $500
 This project is open-source and free to use for educational purposes.
 
 ## Author
-Developed by [Your Name].
+Developed by Nqobani Ncube.
 
